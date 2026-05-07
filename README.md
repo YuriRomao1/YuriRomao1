@@ -1,16 +1,27 @@
-## Hi there 👋
+# Yuri Romão
 
-<!--
-**YuriRomao1/YuriRomao1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Engineer**
 
-Here are some ideas to get you started:
+building reliable and maintainable backend services  
+designing APIs, integrations and systems that scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+
+Java • Kotlin • Spring Boot
+
+### Databases
+
+Oracle Database • PostgreSQL • MySQL • H2 • Flyway
+
+### Observability & Reliability
+
+Logs • Metrics • Dashboards • Monitoring • Traceability 
+
+### Frontend Knowledge
+
+Angular • React • TypeScript • JavaScript • TailwindCSS
+
+## ▸ Current Interests
+
+Software Architecture • Distributed Systems • System Design • Kafka  
+Cloud-Native Applications • Observability • AI-assisted Software Development
